@@ -9,3 +9,7 @@ Manage Software Package for License and Vulnerability Scanning: This process rec
 Software Package License & Vulnerability Datastore: This is a datastore that stores the results for software package license and vulnerability information.
 
 Software Package License & Vulnerability Policy Datastore: This is a datastore that stores acceptable use policies set by corporate management.
+
+Manager: Actor responsible for setting acceptable use for open source software package. Can submit new policies, retrieve policies, and retrieve license and vulnerability information.
+
+Developer: Actor responsible for submitting software packages to be scanned for license and vulnerability information. Can submit packages, retrieve policies, and retrieve license and vulnerability information.
