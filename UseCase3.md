@@ -10,8 +10,8 @@ Stakeholders:
 •	Developer – Will use open source acceptable use policy to decide if it is permissable to use a particular software package
 
 Preconditions:
-•	Management understands licensing for open source software
-•	Management understands vulnerability scores
+•	Manager understands licensing for open source software
+•	Manager understands vulnerability scores
 
 Main Success Scenario: Manager submits a policy for acceptable use of an open source software package
 
