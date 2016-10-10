@@ -12,7 +12,7 @@ Stakeholders:
 
 Preconditions:
 •	Relevant file/package information is in the SPDX database
-•	Proper project information has been provided
+•	Proper software project information has been provided by the developer
 
 Main Success Scenario: Manager receives accurate license and vulnerability information for the requested project packages
 
