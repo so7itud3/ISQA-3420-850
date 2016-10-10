@@ -11,7 +11,7 @@ Stakeholders:
 
 Preconditions:
 •	Relevant software package information is in the FOSSology and NIST databases
-•	Proper software packaget information has been provided
+•	Proper software packaget information has been provided by the Developer
 
 Main Success Scenario: Developer receives accurate license and vulnerability information for the requested software packages
 
